@@ -306,6 +306,8 @@ footer{
   font-size: 30px;
   color:black;
 }
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
